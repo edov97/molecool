@@ -7,3 +7,6 @@ conda install -c conda-forge cookiecutter"""
 
 def squares(x):
 	return x**2
+
+def new_feature():
+	pass
