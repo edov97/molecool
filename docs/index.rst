@@ -5,6 +5,7 @@
 
 Welcome to molecool's documentation!
 =========================================================
+Molecool is an package tool designed to help research with data analysis of DFT ab initio calculations.
 
 .. toctree::
    :maxdepth: 2
@@ -12,6 +13,7 @@ Welcome to molecool's documentation!
 
    getting_started
    api
+   about
 
 
 
