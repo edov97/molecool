@@ -7,6 +7,12 @@ molecool
 
 Python MolSSI workshop
 
+## Install instructions
+
+To install, run this command etc. etc.
+
+''' python pip install -e '''
+
 ### Copyright
 
 Copyright (c) 2024, Edoardo Vanich
