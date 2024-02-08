@@ -15,6 +15,7 @@ To install, run this command etc. etc.
 
 ## Collab instructions
 submit a 'pull reuest'.
+I am Edoardo Vanich
 
 ### Copyright
 
