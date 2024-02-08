@@ -13,6 +13,9 @@ To install, run this command etc. etc.
 
 ''' python pip install -e '''
 
+## Collab instructions
+submit a 'pull reuest'.
+
 ### Copyright
 
 Copyright (c) 2024, Edoardo Vanich
